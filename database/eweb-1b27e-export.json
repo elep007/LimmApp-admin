@@ -1,0 +1,1064 @@
+{
+  "ebook" : {
+    "01" : {
+      "icon" : "ebook1.png",
+      "name" : "eBook_Cable_Jump_Rope_Workouts.pdf",
+      "url" : "https://drive.google.com/file/d/1Shr89XmemsJyN-7gNjHgr9FuGP_Il1XB/view?usp=sharing"
+    },
+    "02" : {
+      "icon" : "ebook2.png",
+      "name" : "eBook_Hip_Band_Workouts.pdf",
+      "url" : "https://drive.google.com/file/d/1fFG6oG2qkKzY-1Ig-1ovdeXjvJBn8FWQ/view?usp=sharing"
+    },
+    "03" : {
+      "icon" : "ebook3.png",
+      "name" : "eBook_Limm Fitness and Exercise.pdf",
+      "url" : "https://drive.google.com/file/d/1dfXSYJjiIeSYG3bejoJ-DxCoo7niHSnT/view?usp=sharing"
+    },
+    "04" : {
+      "icon" : "ebook4.png",
+      "name" : "eBook_Limm_100_Exercise_Tips.pdf",
+      "url" : "https://drive.google.com/file/d/1nzRERLOUrchBQz5AeAtAVu27w0ASE40p/view?usp=sharing"
+    },
+    "05" : {
+      "icon" : "ebook5.png",
+      "name" : "eBook_Limm_Core_Sliders.pdf",
+      "url" : "https://drive.google.com/file/d/1M89NUbaW_afzCpzagt9rvIzNW2WMN3bO/view?usp=sharing"
+    },
+    "06" : {
+      "icon" : "ebook6.png",
+      "name" : "eBook_Limm_Floss_Bands.pdf",
+      "url" : "https://drive.google.com/file/d/1TEVe579iV7jxR1joMaMJpusE4xpEJD86/view?usp=sharing"
+    },
+    "07" : {
+      "icon" : "ebook7.png",
+      "name" : "eBook_Limm_Home_Workouts.pdf",
+      "url" : "https://drive.google.com/file/d/1auIJFsBCwhOqD7rF76VKzflVL0Skrnvt/view?usp=sharing"
+    },
+    "08" : {
+      "icon" : "ebook8.png",
+      "name" : "eBook_Limm_Swimming_Techniques_Exercises.pdf",
+      "url" : "https://drive.google.com/file/d/1McyLcOuK0O7LSJrGkjePoZyUYN7HuZpt/view?usp=sharing"
+    }
+  },
+  "product" : {
+    "product01" : {
+      "amazon" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B0136PR5TO",
+      "answers" : 123,
+      "asin" : "B0136PR5TO",
+      "description" : "【Your Very Own Personal Home Gym】 Bring new life, fun and excitement to your workouts with the \"All-in-one, Ready-to-go, Take-them-anywhere, Gym-in-your-pocket\" Limm Resistance Bands! \n 【Effective & Portable】 Get fit and sculpt a better body anywhere, without the need for expensive gym memberships, exercise equipment or even having to leave your home. The included carry bag makes it easy to take them with you wherever life takes you. \n 【Fun & Easy To Use】 Add fun to your workouts and use them, for example, while watching your favorite TV series. As each band has a different resistance, you can increase the intensity of your workout gradually, which makes them perfect for anyone. \n 【Outperform】 Each resistance band is made of professional grade 100% natural latex (TPE free), is odor free, elastic, durable and will stay flat even after excessive use. No more issues like pinching your skin, snapping, or leaving marks on your clothes. \n 【All You Need】 The included BONUS eBooks, instructions manual, online workout portal and growing online community (IG: BetterWorkouts), provide you with everything you need to succeed. Buy with confidence with our 100% Satisfaction & Lifetime guarantee.",
+      "ebook" : "https://drive.google.com/file/d/1qPVNj8370mP7hv_h32VaMC8HYhGTk4q_/view?usp=sharing_name_How to Perform the Exercises.pdf_split_https://drive.google.com/file/d/12S2JAwBw6464gxI3XGic0FpXiRQUVvvL/view?usp=sharing_name_LimmResistance_Bands_Fitness_Planners.pdf_split_https://drive.google.com/file/d/18Jeie1pff2MC3l-e0FM3PCUn_bHVsDhn/view?usp=sharing_name_Loop_Bands_Quick_Start_Guide.pdf",
+      "faq" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B0136PR5TO?ref_=ast_sto_dp#Ask",
+      "id" : 1,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/81VNHJ-M0ZL._SL1500_.jpg",
+      "manual" : "https://drive.google.com/file/d/1ejStSLXduopv-fD-pn7KeGmoH5J3WN5L/view?usp=sharing_name_4 Easy Steps Guide.pdf_split_https://drive.google.com/file/d/1VgsHt_r8IrHDZhJlFg_FEkn-VIUhQPrI/view?usp=sharing_name_10 Tips of Storage and Care of Bands.pdf_split_https://drive.google.com/file/d/1ldscPhTBN2cnROxtagmBafOfchcBEFBD/view?usp=sharing_name_How to use the Progressive Colored System.pdf_split_https://drive.google.com/file/d/1AR91ITM1P2Q1tz3QjDGvg3XDr1LLXbQU/view?usp=sharing_name_Workout Safety Instructions.pdf",
+      "name" : "Limm Resistance Bands Exercise Loops - 12-inch Premium Workout Bands for Physical Therapy, Rehab, Stretching, Home Fitness, Yoga and More - Bonus EBooks, Instruction Manual, Online Videos & Carry Bag",
+      "originalprice" : 0,
+      "parentproduct" : "no",
+      "price" : 8.39,
+      "rating" : 4.4,
+      "reviews" : 5370,
+      "reviewurl" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B0136PR5TO?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Resistance Bands",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/513wwBKkEVL._SS36_.jpg",
+      "video" : "yes"
+    },
+    "product02" : {
+      "amazon" : "https://www.amazon.com/Limm-Dual-Sided-Core-Exercise-Sliders/dp/B078FQ8LKH",
+      "answers" : 8,
+      "asin" : "B078FQ8LKH",
+      "description" : "- Set of 2 discs comes with complimentary ‘Core Sliders Workout’ eBook, printed manual, handy travel bag, access to online tutorial videos, printable workout guide sheets & 100% SATISFACTION MONEY-BACK GUARANTEE. \n- Each gliding disc is dual-sided: made with fabric on one side for use on ceramic, hardwood, laminate, tile, marble, and other hard floors, and feature smooth plastic on the other side for extra-smooth gliding on carpets, rugs, and grass. \n- Each of the light exercising sliders is 7” (17.8cm) in diameter, and the set of 2 comes with a drawstring carry bag for hassle-free portability to the gym, park, business trip or vacation. \n- Great for toning your shoulders and arms, strengthening the core, sculpting your abs, or giving your legs a rewarding burn. \n- Want to get the most out of these core gliding discs? Combine them with our best-selling resistance bands. This combo gives you a more complete full body strength training and can be integrated into pilates, yoga, the 80-day obsession program, and others. Buy Limm core sliders together with Limm loop bands and get a discount during checkout.",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-Dual-Sided-Core-Exercise-Sliders/dp/B078FQ5R52?ref_=ast_sto_dp&th=1#Ask",
+      "id" : 2,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/91m05loNfAL._SL1500_.jpg",
+      "manual" : "no",
+      "name" : "Limm Dual-Sided Core Exercise Sliders - Gym Gliding Discs for Ab Training, Stability, Legs, Full Body (Set of 2) | with Free Carry Bag and Workout Ebook | Sliding Pads for Hardwood, Carpet & More",
+      "originalprice" : 0,
+      "parentproduct" : "no",
+      "price" : 7.79,
+      "rating" : 4.5,
+      "reviews" : 42,
+      "reviewurl" : "https://www.amazon.com/Limm-Dual-Sided-Core-Exercise-Sliders/dp/B078FQ8LKH?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Core Sliders",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41OmAaBlDvL._SS36_.jpg",
+      "video" : "yes"
+    },
+    "product04" : {
+      "amazon" : "https://www.amazon.com/Limm-Therapy-Massage-Ball-Set/dp/B01LK9GP5I",
+      "answers" : 21,
+      "asin" : "B01LK9GP5I",
+      "description" : "- Best Hard and Soft Ball for Massage Combo that is designed to provide different levels of stimulation according to your preference. This combination is what you need to relieve muscle pain and other body aches. \n- Lacrosse Ball Set that is fit for a moderate massage. The hard spiky massage ball provides a strong level of stimulation to your body. Unlike other balls for massage which are painful to use, this hard ball stimulates without pain. \n- Top-of-the-line Lacrosse Balls. It’s designed to enhance and improve blood circulation through massaging the muscles. It eliminates muscle knots and relieves tension. \n- Perfect for muscle pain therapy. It is used to locate pressure points and to ease stiff neck, tensed shoulders, sore back, aching knees, and tender thighs. Overall, it rejuvenates and revitalizes your whole body. \n- Recommended to support healthy muscles and body with 100% Satisfaction Guarantee. Physical therapists are advised to use therapy balls and this is one you can use. It has a Lifetime Guarantee providing hassle-free refund with no questions asked.",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-Therapy-Massage-Ball-Set/dp/B01LK9GP5I?ref_=ast_sto_dp#Ask",
+      "id" : 4,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/51ZF6Af5RQL.jpg",
+      "manual" : "https://drive.google.com/file/d/1mLgrOTcs_xf6L4BiT4zu8XYy1cUCHEgi/view?usp=sharing",
+      "name" : "Limm Therapy Massage Ball Set - Lacrosse & Spiky Combo - 2 2.5 inches & 1 2.8 inches - Best Feet, Back & Neck - Rubber Balls for Pain Relief & Plantar Fasciitis - Includes Free Carry Bag",
+      "originalprice" : 24.99,
+      "parentproduct" : "no",
+      "price" : 13.79,
+      "rating" : 4.7,
+      "reviews" : 146,
+      "reviewurl" : "https://www.amazon.com/Limm-Therapy-Massage-Ball-Set/dp/B01LK9GP5I?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Massage Balls",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41OmAaBlDvL._SS36_.jpg",
+      "video" : "no"
+    },
+    "product05" : {
+      "amazon" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B00VOCG44O",
+      "answers" : 54,
+      "asin" : "B00VOCG44O",
+      "description" : "- FULLY ADJUSTABLE - Quickly and easily adjustable from 9.8ft down to your desired length within minutes! Appropriate for all ages (Adults, Men, Women, Children, Kids, Boys, and Girls) and all experience levels. \n- NO MORE TANGLING! - Featuring a high quality premium ball bearing, it ensures a smooth and effortless spin making it the perfect addition to any calorie burning workout program. \n- ENJOY TOTAL COMFORT - The ergonomically designed handles offer extra comfort not found in other jump ropes while also preventing palm sweat and providing the firm grip you need to get the most out of your workout! \n- LIGHTWEIGHT & PORTABLE - Being feather-light makes it easily and conveniently portable so that you can achieve maximum fat burn, tone your muscles and reach peak fitness anywhere. With your purchase you will also receive easy to follow sizing instructions and tips on how to get the most out of your rope. \n- ABSOLUTELY NO RISK INVOLVED - At Limm, we fully stand behind our product and offer you a no-questions-asked, 100% SATISFACTION MONEY-BACK GUARANTEE. If you don't love your Limm Jump Rope or if you don't feel 100% satisfied for any reason, we will fully refund your money. Customer satisfaction is our number one priority. So try it now! TOTALLY RISK FREE!",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B00VOCG44O?ref_=ast_sto_dp#Ask",
+      "id" : 5,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/81i9UcfkL4L._SL1500_.jpg",
+      "manual" : "https://drive.google.com/file/d/1VZncD57tzQaUlcLgmTmM_ZmHzDe67qh-/view?usp=sharing_name_10 Tips to Better Use of Your Jump Rope.pdf_split_https://drive.google.com/file/d/1qe-oXUB8NKx-5n7UqTE_pyDRLNpCp454/view?usp=sharing_name_Limm_Jump_Rope Instruction Sheet.pdf",
+      "name" : "Limm All Purpose Jump Rope - Ideal for All Ages & Skill Levels, Indoor/Outdoor, Easily Adjustable, Comfortable Handles, 5mm Thick Plastic/PVC Rope - Get and Stay Fit, Lose Weight, Best Cardio Workout",
+      "originalprice" : 44.91,
+      "parentproduct" : "no",
+      "price" : 9.98,
+      "rating" : 4.3,
+      "reviews" : 706,
+      "reviewurl" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B00VOCG44O?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Plastic Jump Rope",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/5184sVfftgL._SS36_.jpg",
+      "video" : "no"
+    },
+    "product07" : {
+      "amazon" : "https://www.amazon.com/Limm-Speed-Cable-Jump-Rope/dp/B07BDKCB4S",
+      "answers" : 7,
+      "asin" : "B07BDKCB4S",
+      "description" : "- BETTER GRIP; GREATER CONTROL: Unlike others that come with regular plastic handles that easily slip, our high speed cable rope has ergonomic 5.12” handles specially gripped with anti-slip PU leather. This means no slipping or sliding no matter how sweaty your workout. \n- EXTRA FAST SPINS: Dominate those double unders. We’ve combined a sturdy and lightweight cable rope with smooth-spinning steel bearings to create super fast spins with little wrist work. Makes a great exercise jump rope for Crossfit, MMA training, boxing, gyms, and schools. \n- ADJUST WITH EASE: You can easily adjust this 10ft skipping rope to suit men, women, or kids by cutting the rope and adjusting the screws. For an even more effective calorie-scorching, muscle-toning, and cardio-strengthening workout, combine this skip rope with our best-selling Limm Loop Bands. \n- GET MORE VALUE: Enjoy the best bang for your buck with our extra-large Crossfit jump rope kit. Every set comes with 1 cable rope, 1 pair of extra screws, 1 carry bag, a printed instruction manual on adjusting the rope, and a downloadable ebook with workouts both beginners and pros will love. \n- BUY RISK-FREE: Take your workouts to the next level without having anything to lose. The Limm adjustable speed rope set comes with a 100% satisfaction guarantee. Click ‘Add to Cart’ now to sample premium quality in action completely risk-free!",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-Speed-Cable-Jump-Rope/dp/B07BDKCB4S?ref_=ast_sto_dp#Ask",
+      "id" : 7,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/51Ie2Mxm1DL.jpg",
+      "manual" : "https://drive.google.com/file/d/1CQy7duYdG4esG8iOxX92lDey1LozRNpL/view?usp=sharing",
+      "name" : "Limm Speed Cable Jump Rope - Adjustable 10ft Exercise Jumping Rope with Non-Slip PU Leather Handles & Carry Bag | Fast Skipping Rope for Crossfit, Boxing, Men, Women, Kids (Black)",
+      "originalprice" : 0,
+      "parentproduct" : "no",
+      "price" : 6.97,
+      "rating" : 3.8,
+      "reviews" : 14,
+      "reviewurl" : "https://www.amazon.com/Limm-Speed-Cable-Jump-Rope/dp/B07BDKCB4S?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Cable Jump Rope",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41OmAaBlDvL._SS36_.jpg",
+      "video" : "no"
+    },
+    "product08" : {
+      "amazon" : "https://www.amazon.com/Limm-Advanced-Abdominal-Exercises-General/dp/B074DG6XQ3",
+      "answers" : 31,
+      "asin" : "B074DG6XQ3",
+      "description" : "- ENJOY YOUR BEACH BODY (WITH SIX PACK ABS) - Versatile equipment can tone all areas including back, shoulders, arms, chest, triceps and stomach - including obliques and hip flexors \n- AN EASIER WORKOUT - Imagine getting more results with less work…the stable and fluid ab carver with dual adjustable wheels is ergonomic, while the thick knee pad and foam grip handles provide comfort - this allows you to focus on your form and provides better results \n- SUITABLE FOR BEGINNER OR ADVANCED FITNESS LEVELS - Whether your goal is to build muscle or burn calories and eliminate belly fat, you will see results and improve overall posture with consistent use (works for both men and women) \n- LIGHTWEIGHT AND PORTABLE - Perfect for a home gym, but also convenient enough to travel with - it is like having access to professional quality equipment anywhere and anytime…even in the office \n- DURABLE AND HIGH QUALITY - Buy with confidence as the ab wheel is made to last through tough or intense workouts - non-slip rubber wheels are well balanced to provide extra stability",
+      "ebook" : "https://drive.google.com/file/d/18IBLCKL93ubl7WnCcRzGXc3loSaMDWrU/view?usp=sharing",
+      "faq" : "https://www.amazon.com/Limm-Advanced-Abdominal-Exercises-General/dp/B074DG6XQ3?ref_=ast_sto_dp#Ask",
+      "id" : 8,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/818LWlVboYL._SL1500_.jpg",
+      "manual" : "https://drive.google.com/file/d/1DhIqdRxIJE0P1wGEQzDxX-_MCwxy0zn4/view?usp=sharing",
+      "name" : "Limm Ab Wheel Roller for Advanced Abdominal Core Exercises and General Fitness - Includes Soft Knee Pad, Storage Bag and Instructions Manual",
+      "originalprice" : 0,
+      "parentproduct" : "no",
+      "price" : 16.87,
+      "rating" : 4.6,
+      "reviews" : 100,
+      "reviewurl" : "https://www.amazon.com/Limm-Advanced-Abdominal-Exercises-General/dp/B074DG6XQ3?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "AB Wheel Roller",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41OmAaBlDvL._SS36_.jpg",
+      "video" : "no"
+    },
+    "product09" : {
+      "amazon" : "https://www.amazon.com/Limm-Premium-Quality-Crossfit-Adjustable/dp/B01G0SRYM2",
+      "answers" : 15,
+      "asin" : "B01G0SRYM2",
+      "description" : "- PREMIUM QUALITY GREAT PRODUCT – This is a perfect Jump Rope for MMA training, gym exercise, home workouts, double unders, and cardio activities. It is also designed for both indoor and outdoor calisthenics. Men and women can use it regardless of age. Even kids can use it but not those below 3 years of age because of the small screws it has. \n- EASILY ADJUSTABLE CROSSFIT CABLE ROPE – “Excellent jump rope. The handles are comfortable, and adjustment of the rope length is quite easy,” said Cody, user of this product. The rope length is 10 feet and can easily be adjusted according to your desire. The handles are made of plastic and foam to provide a non-slippery grip and to avoid sweating; they're 5.7 inches long and not weighted. \n- DESIGNED FOR ULTRA SPEED – Another user named Jimmy said that, “I use this everyday and it is one of the greatest speed ropes I have used.” Unlike other Jump Ropes on the market, this one is different because it can provide an optimum speed. \n- PORTABLE TO PROVIDE GREAT EXPERIENCE – Wherever you are this Speed Jump Rope is able to provide great experience. It is portable and lightweight so you can bring this wherever you want to exercise. “Very nice rope really smooth,” said Dmoney. \n- LIFETIME WARRANTY FOR ULTIMATE SATISFACTION – At Limm, we prioritize your overall well-being and optimum health through the right fitness activities. In case you are not completely satisfied with your purchase, there is a lifetime and risk-free Money Back Guarantee for you without asking any question. Cart your Speed Cable Jump Rope today and enjoy also our eBook and Carry Bag as freebies! It is totally risk free!",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-Premium-Quality-Crossfit-Adjustable/dp/B01G0SRYM2?ref_=ast_sto_dp#Ask",
+      "id" : 9,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/81-W2tn-n1L._SL1500_.jpg",
+      "manual" : "no",
+      "name" : "Limm Premium Quality Crossfit Jump Rope Ultra Speed & Adjustable - Fit for Weight Loss, Boxing, MMA, Muay Thai, Endurance Training, Other Cardio Workouts - with Free eBook & Carry Bag",
+      "originalprice" : 0,
+      "parentproduct" : "no",
+      "price" : 11.78,
+      "rating" : 3.7,
+      "reviews" : 70,
+      "reviewurl" : "https://www.amazon.com/Limm-Premium-Quality-Crossfit-Adjustable/dp/B01G0SRYM2?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Cable Jump Rope",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41OmAaBlDvL._SS36_.jpg",
+      "video" : "no"
+    },
+    "product10" : {
+      "amazon" : "https://www.amazon.com/Limm-Exercise-Pilates-Stretching-General/dp/B071RNFL6V",
+      "answers" : 7,
+      "asin" : "B071RNFL6V",
+      "description" : "RETAINS SHAPE AND INFLATION - Professional grade stability ball is anti-warp and anti-leak, so it is long lasting and will not lose shape over time; Rated up to 1,000 lbs  \nCOMPLETE SET - 1 Yoga ball, 1 dual inflation foot pump, 2 air stoppers, 1 plug remover, 1 instructions manual  \nSTARTER GUIDE INCLUDED - Your purchase includes a free e-book and access to exclusive workout videos through Limm Member’s Portal  \nEASY TO INFLATE / DEFLATE - Portable ball can be quickly inflated and deflated ball as needed, so it’s easy to store or travel with; Great for your home or office  \nECO FRIENDLY - Buy with confidence as stability ball is made with same high quality PVC used in professional gyms; Textured surface is anti-slip and anti-burst",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-Exercise-Pilates-Stretching-General/dp/B071RNFL6V?ref_=ast_sto_dp#Ask",
+      "id" : 10,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/91UpGeICjFL._SL1500_.jpg",
+      "manual" : "no",
+      "name" : "Limm Exercise Ball for Yoga - Gym Workout Ball for Pilates, Balance, Stretching and General Fitness - Includes Foot Pump, Starter Guide and Access to Exclusive Members Portal",
+      "originalprice" : 34.99,
+      "parentproduct" : "no",
+      "price" : 19.95,
+      "rating" : 4,
+      "reviews" : 25,
+      "reviewurl" : "https://www.amazon.com/Limm-Exercise-Pilates-Stretching-General/dp/B071RNFL6V?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Yoga Ball",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41OmAaBlDvL._SS36_.jpg",
+      "video" : "yes"
+    },
+    "product11" : {
+      "amazon" : "https://www.amazon.com/Limm-Armband-iPhone-Samsung-Galaxy/dp/B015P0PMU2",
+      "answers" : 8,
+      "asin" : "B015P0PMU2",
+      "description" : "Thinnest, most lightweight and stretchable armband available so you don’t even feel like you’re wearing one.  \nTwo sizes in one with extra covers to prevent pinching, so that you can workout in total comfort.  \nDesigned to offer greater protection than other armbands against sweat/rain so that you don’t have to worry about your device.  \nSpecial Anti-slip texture on back, clear/sensitive front cover and reflective strip offer maximum convenience and safety. \nEnhance your workouts with your favorite music and carry your cards, key and money all in one safe place.",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-Armband-iPhone-Samsung-Galaxy/dp/B015P0PMU2?ref_=ast_sto_dp#Ask",
+      "id" : 11,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/71z%2BKdkZ9gL._SL1500_.jpg",
+      "manual" : "no",
+      "name" : "Limm Sport Armband for iPhone 7, iPhone 6s/6, Samsung Galaxy S6/S5 - Water and Sweat Resistant - Best for Running, Sports, Workouts, Cycling - Slim & Comfortable Like No Other",
+      "originalprice" : 0,
+      "parentproduct" : "no",
+      "price" : 9.02,
+      "rating" : 3.7,
+      "reviews" : 55,
+      "reviewurl" : "https://www.amazon.com/Limm-Armband-iPhone-Samsung-Galaxy/dp/B015P0PMU2?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Sports Armband",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41OmAaBlDvL._SS36_.jpg",
+      "video" : "no"
+    },
+    "product12" : {
+      "amazon" : "https://www.amazon.com/Limm-Traction-Cleats-Snow-Medium/dp/B01KIPYNE0?th=1&psc=1",
+      "answers" : 72,
+      "asin" : "B01KIPYNFE",
+      "description" : "Never slip on snow or ice again with your handy Limm traction cleats!  \nEasily slip-on around footwear in seconds. Available in a variety of sizes. \nRolls up nicely to be carried in a purse, work-bag or even in your pockets.  \nFor men, women and kids. Great for winter activities or even simple everyday use.  \nFull foot anti-slip protection with 10 steel metal studs that offer serious traction wherever you go.",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-Traction-Cleats-Snow-Medium/dp/B01KIPYNFE?ref_=ast_sto_dp#Ask",
+      "id" : 12,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/91urg9KexML._SL1500_.jpg",
+      "manual" : "no",
+      "name" : "Limm Crampons Ice Traction Cleats - Grips Quickly and Easily Over Footwear for Snow and Ice - Portable -Sizes: S/M/L/XL",
+      "originalprice" : 0,
+      "parentproduct" : "no",
+      "price" : 13.45,
+      "rating" : 4.4,
+      "reviews" : 418,
+      "reviewurl" : "https://www.amazon.com/Limm-Traction-Cleats-Snow-Medium/dp/B01KIPYNFE?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Traction cleats",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41OmAaBlDvL._SS36_.jpg",
+      "video" : "no"
+    },
+    "product13" : {
+      "amazon" : "https://www.amazon.com/Limm-Anti-Fog-Swimming-Goggles-Anti-Shatter/dp/B06WP27547",
+      "answers" : 26,
+      "asin" : "B06WP27547",
+      "description" : "NO MORE FOGGING: Enjoy impressive clarity while on that swim with Limm. Unlike other swimming goggles that quickly fog and hamper visibility, ours have lenses that are not only coated with the latest anti-fog protection but also electroplated to prevent UVA and UVB exposure. This means no fogging as you swim, reduced glare, and enhanced protection from harmful sun rays.  \nNO LEAKS; TOTAL COMFORT: Our anti-fog swim goggles have a snug fit that keeps water out to ensure your time in the water is completely irritation free. You’ll love the comfortable feel of the flexible silicone gasket and frame, the easily adjustable straps, and the universal fit that makes these great swimming goggles for men, women, boys, and girls.  \nDESIGNED FOR DURABILITY: No dealing with swim goggles glasses that easily break or snap. The high-quality strap never loses its elasticity even with repeated wear and the special anti-shatter lenses have the strength to withstand it all. And we’ve included a sturdy case to keep the swimming goggles safe during transit and make portability a breeze. \nGET YOUR FREEBIES: Treat yourself to waterproof swimming goggles that give you true value for money! Our swim goggles for kids and adults come with a FREE nose clip and earplugs for even greater comfort. You also get a bonus Ebook with great techniques and exercises to help you become an even better swimmer.  \n100% SATISFACTION GUARANTEED: We love it when our customers are beyond thrilled. That’s why we’ve backed these cool silicon swim goggles with a total satisfaction guarantee. Reach out to us in case of any issues or questions and we’ll quickly do all we can to make you smile. Click ‘Add to Cart’ now to make your time in the water a pleasurable affair!",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-Anti-Fog-Swimming-Goggles-Anti-Shatter/dp/B06WP27547?ref_=ast_sto_dp#Ask",
+      "id" : 13,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/81HKDdtgujL._SL1500_.jpg",
+      "manual" : "no",
+      "name" : "Limm Anti-Fog Swimming Goggles - Includes Free Case, Nose Clip, Earplugs and Ebook | Anti-Shatter Lenses with UV Protection | Leak-Free Adjustable Swim Glasses for Men, Women, Boys, Girls (Blue)",
+      "originalprice" : 0,
+      "parentproduct" : "no",
+      "price" : 6.29,
+      "rating" : 4.4,
+      "reviews" : 64,
+      "reviewurl" : "https://www.amazon.com/Limm-Anti-Fog-Swimming-Goggles-Anti-Shatter/dp/B06WP27547?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Swimming goggles",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41OmAaBlDvL._SS36_.jpg",
+      "video" : "no"
+    },
+    "product14" : {
+      "amazon" : "https://www.amazon.com/Limm-Adjustable-Training-Agility-Ladder/dp/B079DFYC5D",
+      "answers" : 25,
+      "asin" : "B079DFYC5D",
+      "description" : "- ENJOY A CUSTOM WORKOUT: Unlike other training ladders that are a pain to adjust or can’t be adjusted at all, the Limm speed agility ladder conveniently comes with unique yellow markings on the rope. This means not only can you easily adjust it but you get to achieve uniform spacing between the rungs without any difficulty. Our sports training ladder has 12 moveable rungs adjustable up to 15 inches, is 17.5” wide, and has a total length of 20 feet. \n- DESIGNED FOR DURABILITY: No more dealing with footwork ladders that easily snap. The flat rungs on our workout ladder are 5mm thick, over 60% thicker than others that max out at 3mm. Whether you’re training for soccer or football, to improve footwork or just to get in a fun workout, our exercise agility ladder complements all the activity with a touch of durability.  \n- PORTABILITY MADE SIMPLE: Move the foot speed ladder to and from the field or track without any hassle. The soccer agility ladder not only folds into a compact package but also comes with a BONUS carry bag for bulk-free mobility and neat storage. Setting up the football agility ladder both indoors and outdoors is just as easy.  \n- VALUE YOU’LL LOVE: We’ve included extra accessories in our agility ladder kit without requiring you to pay extra. Every set comes with the adjustable agility ladder, carry bag, and 4 FREE anchoring hooks, online tutorial videos, a 38-page Ebook, and printed ladder drills. Those are 6 items in every set to take your footwork, speed, skill, and agility to the next level.  \n- 100% SATISFACTION GUARANTEED: We love it when our customers are beyond thrilled. That’s why we’ve backed this fitness ladder for kids and adults with a total satisfaction guarantee. Reach out to us in case of any issues or questions and we’ll quickly do all we can to make you smile. Click ‘Add to Cart’ now to get a heavy-duty agility ladder completely risk-free!",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-Adjustable-Training-Agility-Ladder/dp/B079DFYC5D?ref_=ast_sto_dp#Ask",
+      "id" : 14,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/81JaioHJ7YL._SL1500_.jpg",
+      "manual" : "no",
+      "name" : "Limm Adjustable Training Agility Ladder - with Free Carry Bag, Hooks, and Online Tutorial Videos | Unique Rope Adjustment Markings & Durable Flat Rungs | for Speed, Footwork, Sports, Fitness and More",
+      "originalprice" : 0,
+      "parentproduct" : "no",
+      "price" : 19.5,
+      "rating" : 4.7,
+      "reviews" : 66,
+      "reviewurl" : "https://www.amazon.com/Limm-Adjustable-Training-Agility-Ladder/dp/B079DFYC5D?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Agility Ladder",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41OmAaBlDvL._SS36_.jpg",
+      "video" : "yes"
+    },
+    "product15" : {
+      "amazon" : "https://www.amazon.com/Limm-Agility-Ladder-Replacement-Hooks/dp/B0721K112Q",
+      "answers" : 0,
+      "asin" : "B0721K112Q",
+      "description" : "Lost or misplaced your Agility Ladder hooks? We have you covered!  \n- Set of 4 replacement hooks  \n- Standard size: 5.12 inches in length  \n- Made of metal for extra durability  \n- 100% lifetime guarantee",
+      "ebook" : "no",
+      "faq" : "no",
+      "id" : 15,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/41cdXPgJPNL.jpg",
+      "manual" : "no",
+      "name" : "Agility Ladder Replacement Hooks - Set of 4 - Used to Fix/Fasten/Attach Your Speed and Agility Training Ladder to The Ground",
+      "originalprice" : 0,
+      "parentproduct" : "no",
+      "price" : 8.9,
+      "rating" : 0,
+      "reviews" : 0,
+      "reviewurl" : "no",
+      "shortname" : "Markings",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41OmAaBlDvL._SS36_.jpg",
+      "video" : "no"
+    },
+    "product16" : {
+      "amazon" : "https://www.amazon.com/Limm-Strap-Stretch-Flexibility-Strength/dp/B01D2305M4",
+      "answers" : 13,
+      "asin" : "B01D2305M4",
+      "description" : "- Effortlessly hold new positions you previously found impossible with this extra long 8 ft. belt  \n- Exceedingly comfortable 100% cotton material allows you to relax and feel at peace in the most strenuous poses  \n- You can apply as much pressure to this belt as you need, thick, wide material is strong, durable and has heavy cotton webbing sewn throughout  \n- You will be able to hold poses for long periods of time without interruption  \n- Relax knowing you won't mix up your belt with someone else's, even at the most crowded studio or class",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-Strap-Stretch-Flexibility-Strength/dp/B01D2305M4?ref_=ast_sto_dp#Ask",
+      "id" : 16,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/413TdEqD-AL.jpg",
+      "manual" : "no",
+      "name" : "Limm Yoga Strap Stretch Band to Aid Flexibility and Strength",
+      "originalprice" : 0,
+      "parentproduct" : "no",
+      "price" : 5.99,
+      "rating" : 5,
+      "reviews" : 8,
+      "reviewurl" : "https://www.amazon.com/Limm-Strap-Stretch-Flexibility-Strength/dp/B01D2305M4?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Yoga Strap",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41OmAaBlDvL._SS36_.jpg",
+      "video" : "no"
+    },
+    "product17" : {
+      "amazon" : "https://www.amazon.com/Limm-Muscle-Compression-Floss-Bands/dp/B07KX13JPW",
+      "answers" : 0,
+      "asin" : "B07KX13JPW",
+      "description" : "INCREASE MOBILITY - Move freely by compressing the tissues in the joint and constricting blood flow in just two minutes. The toxins are then flushed out, together with lactic acid and scar tissue once the compression bands are removed! \n- BE REBORN - With our tack and floss bands, you can improve joint pain and stiffness, reduce inflammation and muscle pain and soreness, and heal strained tissue. Apply it to the swollen areas to promote lymphatic drainage and increase flexibility. \n- QUALITY THAT YOU DESERVE - Limm Floss Bands are made of high quality 100% natural latex.Wrap them with confidence because they are not slippery nor flimsy unlike other bands.Our stretch bands are durable, effective and definitely NO toxic smell. \n- SUPPORTS AND RELIEVES - Floss Bands are also known as Blood Flow Restriction therapy/training (BFR). Using a therapeutic elastic band on extremities and joints increases ranges of motion, has healing and cleaning powers and overall better movement. \n- 100% SATISFACTION GUARANTEE - Limm Group takes pride in ensuring high quality products or your money back. It has Lifetime Guarantee providing hassle-free money refund anytime with no questions asked. Add your Limm Floss Bands to your cart now!",
+      "ebook" : "no",
+      "faq" : "no",
+      "id" : 17,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/716AtiQazlL._SL1500_.jpg",
+      "manual" : "https://drive.google.com/file/d/1JsOnqj3CEB8ykvfQEpgiYSo8IT7A_Nri/view?usp=sharing",
+      "name" : "Limm Muscle Compression Floss Bands - Tack and Flossing Bands for Mobility, Fitness, and Recovery - Best for Athletes, Therapy and Injury - Includes 2 Levels of Compression, Travel Pouch and Manual",
+      "originalprice" : 0,
+      "parentproduct" : "no",
+      "price" : 15.9,
+      "rating" : 4.5,
+      "reviews" : 21,
+      "reviewurl" : "https://www.amazon.com/Limm-Muscle-Compression-Floss-Bands/dp/B07KX13JPW#customerReviews",
+      "shortname" : "Compression Floss Bands",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41OmAaBlDvL._SS36_.jpg",
+      "video" : "no"
+    },
+    "product18" : {
+      "amazon" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B07GBSLTGQ",
+      "answers" : 123,
+      "asin" : "B07GBSLTGQ",
+      "description" : "Set of 3 heavy bands (red) - Each resistance band is made of 100% natural latex (TPE free) and is odor free\n Improve muscle tone in arms, legs, ankles, back & buttocks without need for expensive gym memberships or exercise equipment\n Straps are 12\" long so they can be stretched further - Great for Stretching, Warm-Ups, Home Workouts, Physical Therapy, Yoga, Rehabilitation, Pilates & Crossfit!\n Flexible bands are lightweight, durable and compact so you can take them along in a purse or briefcase in the included carry bag\n Set of 3 of our heavy resistance exercise bands come with complimentary ‘Home Workouts’ eBook, printed manual, handy travel bag & 100% lifetime satisfaction guarantee. Check our product images for instructions to get your bonuses!",
+      "ebook" : "https://drive.google.com/file/d/1qPVNj8370mP7hv_h32VaMC8HYhGTk4q_/view?usp=sharing_name_How to Perform the Exercises.pdf_split_https://drive.google.com/file/d/12S2JAwBw6464gxI3XGic0FpXiRQUVvvL/view?usp=sharing_name_LimmResistance_Bands_Fitness_Planners.pdf_split_https://drive.google.com/file/d/18Jeie1pff2MC3l-e0FM3PCUn_bHVsDhn/view?usp=sharing_name_Loop_Bands_Quick_Start_Guide.pdf",
+      "faq" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B0136PR5TO?ref_=ast_sto_dp#Ask",
+      "id" : 18,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/81aLzgzWV6L._SL1500_.jpg",
+      "manual" : "https://drive.google.com/file/d/1ejStSLXduopv-fD-pn7KeGmoH5J3WN5L/view?usp=sharing_name_4 Easy Steps Guide.pdf_split_https://drive.google.com/file/d/1VgsHt_r8IrHDZhJlFg_FEkn-VIUhQPrI/view?usp=sharing_name_10 Tips of Storage and Care of Bands.pdf_split_https://drive.google.com/file/d/1ldscPhTBN2cnROxtagmBafOfchcBEFBD/view?usp=sharing_name_How to use the Progressive Colored System.pdf_split_https://drive.google.com/file/d/1AR91ITM1P2Q1tz3QjDGvg3XDr1LLXbQU/view?usp=sharing_name_Workout Safety Instructions.pdf",
+      "name" : "Limm Resistance Bands Exercise Loops - 12-inch Premium Workout Bands for Physical Therapy, Rehab, Stretching, Home Fitness, Yoga and More - Bonus EBooks, Instruction Manual, Online Videos & Carry Bag",
+      "originalprice" : 0,
+      "parentproduct" : "B0136PR5TO",
+      "price" : 9.32,
+      "rating" : 4.4,
+      "reviews" : 5370,
+      "reviewurl" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B0136PR5TO?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Resistance Bands",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41Sjwk9f69L._SS36_.jpg",
+      "video" : "yes"
+    },
+    "product19" : {
+      "amazon" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B07GBRJC8R",
+      "answers" : 123,
+      "asin" : "B07GBRJC8R",
+      "description" : "Set of 3 extra-heavy bands (black) - Each resistance band is made of 100% natural latex (TPE free) and is odor free\n Improve muscle tone in arms, legs, ankles, back & buttocks without need for expensive gym memberships or exercise equipment\n Straps are 12\" long so they can be stretched further - Great for Stretching, Warm-Ups, Home Workouts, Physical Therapy, Yoga, Rehabilitation, Pilates & Crossfit!\n Flexible bands are lightweight, durable and compact so you can take them along in a purse or briefcase in the included carry bag\n Set of 3 of our X-Heavy exercise bands come with complimentary ‘Home Workouts’ eBook, printed manual, handy travel bag & 100% lifetime satisfaction guarantee. Check our product images for instructions to get your bonuses!",
+      "ebook" : "https://drive.google.com/file/d/1qPVNj8370mP7hv_h32VaMC8HYhGTk4q_/view?usp=sharing_name_How to Perform the Exercises.pdf_split_https://drive.google.com/file/d/12S2JAwBw6464gxI3XGic0FpXiRQUVvvL/view?usp=sharing_name_LimmResistance_Bands_Fitness_Planners.pdf_split_https://drive.google.com/file/d/18Jeie1pff2MC3l-e0FM3PCUn_bHVsDhn/view?usp=sharing_name_Loop_Bands_Quick_Start_Guide.pdf",
+      "faq" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B0136PR5TO?ref_=ast_sto_dp#Ask",
+      "id" : 19,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/81z3ix2VleL._SL1500_.jpg",
+      "manual" : "https://drive.google.com/file/d/1ejStSLXduopv-fD-pn7KeGmoH5J3WN5L/view?usp=sharing_name_4 Easy Steps Guide.pdf_split_https://drive.google.com/file/d/1VgsHt_r8IrHDZhJlFg_FEkn-VIUhQPrI/view?usp=sharing_name_10 Tips of Storage and Care of Bands.pdf_split_https://drive.google.com/file/d/1ldscPhTBN2cnROxtagmBafOfchcBEFBD/view?usp=sharing_name_How to use the Progressive Colored System.pdf_split_https://drive.google.com/file/d/1AR91ITM1P2Q1tz3QjDGvg3XDr1LLXbQU/view?usp=sharing_name_Workout Safety Instructions.pdf",
+      "name" : "Limm Resistance Bands Exercise Loops - 12-inch Premium Workout Bands for Physical Therapy, Rehab, Stretching, Home Fitness, Yoga and More - Bonus EBooks, Instruction Manual, Online Videos & Carry Bag",
+      "originalprice" : 0,
+      "parentproduct" : "B0136PR5TO",
+      "price" : 10.17,
+      "rating" : 4.4,
+      "reviews" : 5370,
+      "reviewurl" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B0136PR5TO?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Resistance Bands",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41L8z5-cv%2BL._SS36_.jpg",
+      "video" : "yes"
+    },
+    "product20" : {
+      "amazon" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B07GBQHZMM",
+      "answers" : 123,
+      "asin" : "B07GBQHZMM",
+      "description" : "[Pro Series] Each resistance band is made of 100% natural latex (TPE free), is odor free and has a greater resistance than our regular bands so that you can really intensify your workout and challenge yourself!\n Improve muscle tone in arms, legs, ankles, back & buttocks anywhere you are without the need for expensive gym memberships or exercise equipment\n Straps are 12\" long so they can be stretched further - Great for Stretching, Warm-Ups, Home Workouts, Physical Therapy, Yoga, Rehabilitation, Pilates & Crossfit!\n Flexible bands are lightweight, durable and compact so you can take them along anywhere you go in a purse or briefcase in the included carry bag\n Set of high resistance top quality exercise bands come with complimentary ‘Home Workouts’ eBook, printed manual, handy travel bag & 100% lifetime satisfaction guarantee. Check our product images for instructions to get your bonuses!",
+      "ebook" : "https://drive.google.com/file/d/1qPVNj8370mP7hv_h32VaMC8HYhGTk4q_/view?usp=sharing_name_How to Perform the Exercises.pdf_split_https://drive.google.com/file/d/12S2JAwBw6464gxI3XGic0FpXiRQUVvvL/view?usp=sharing_name_LimmResistance_Bands_Fitness_Planners.pdf_split_https://drive.google.com/file/d/18Jeie1pff2MC3l-e0FM3PCUn_bHVsDhn/view?usp=sharing_name_Loop_Bands_Quick_Start_Guide.pdf",
+      "faq" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B0136PR5TO?ref_=ast_sto_dp#Ask",
+      "id" : 20,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/81BVO0KDr6L._SL1500_.jpg",
+      "manual" : "https://drive.google.com/file/d/1ejStSLXduopv-fD-pn7KeGmoH5J3WN5L/view?usp=sharing_name_4 Easy Steps Guide.pdf_split_https://drive.google.com/file/d/1VgsHt_r8IrHDZhJlFg_FEkn-VIUhQPrI/view?usp=sharing_name_10 Tips of Storage and Care of Bands.pdf_split_https://drive.google.com/file/d/1ldscPhTBN2cnROxtagmBafOfchcBEFBD/view?usp=sharing_name_How to use the Progressive Colored System.pdf_split_https://drive.google.com/file/d/1AR91ITM1P2Q1tz3QjDGvg3XDr1LLXbQU/view?usp=sharing_name_Workout Safety Instructions.pdf",
+      "name" : "Limm Resistance Bands Exercise Loops - 12-inch Premium Workout Bands for Physical Therapy, Rehab, Stretching, Home Fitness, Yoga and More - Bonus EBooks, Instruction Manual, Online Videos & Carry Bag",
+      "originalprice" : 0,
+      "parentproduct" : "B0136PR5TO",
+      "price" : 11.87,
+      "rating" : 4.4,
+      "reviews" : 5370,
+      "reviewurl" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B0136PR5TO?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Resistance Bands",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41s6ZBWYnjL._SS36_.jpg",
+      "video" : "yes"
+    },
+    "product21" : {
+      "amazon" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B07QKM4BQF",
+      "answers" : 123,
+      "asin" : "B07QKM4BQF",
+      "description" : "🌸 QUALITY, VERSATILITY AND FUN COMBINED: Each loop band is made of 100% natural latex with 5 varying levels of resistance including X-Light (4-10lbs), Light (6-15lbs), Medium (15-20lbs), Heavy (20-25lbs), X-Heavy (35-40lbs). Whether you are still new to fitness or a powerlifter, these Pink Mini Bands are the answer to all your booty-building needs\n 🍑 NEVER GET BORED: Pair these fitness bands with any exercise or workout program like beachbody, P90X, 80 day obsession, or for general use in yoga, Pilates, therapy and rehabilitation, glute activation, powerlifting, or strength-training. You can even double up on the resistance by using multiple bands at once. Get endless workout ideas for a strong body and a perfectly toned butt\n 🌸 TRAVEL-FRIENDLY: These exercise bands come with a cute pink pouch to keep them secure, organized and ready for your outdoor workout needs. Use these bands at work, in your gym, on the beach, at home watching TV, or even at your desk in your office. Engage your glutes and add resistance to your workouts whether you are at home or on-the-go. Even on busy and lazy days, our bands are here to help you sculpt the perfect booty\n 🍑 CUTE, TRENDY AND NON-STAIN: Build your hips and glutes faster with this cute and high quality workout gear without staining your favorite leggings! If you want to see your body's best transformation, especially on your glutes and legs, then these workout bands are for you\n 🌸 100% SATISFACTION: Buy with confidence with our Satisfaction and Lifetime guarantee. Even if you are unsure of the many ways you can use these stretch bands, worry no more! With each purchase of this set, you will get an eBook full of leg and glute-specific workout guides that will be emailed directly to your inbox. PLUS: Exclusive Online Access to our Workout Videos. Follow us to join our growing online community of booty strong women (@BetterWorkouts) so you can get started TODAY",
+      "ebook" : "https://drive.google.com/file/d/1qPVNj8370mP7hv_h32VaMC8HYhGTk4q_/view?usp=sharing_name_How to Perform the Exercises.pdf_split_https://drive.google.com/file/d/12S2JAwBw6464gxI3XGic0FpXiRQUVvvL/view?usp=sharing_name_LimmResistance_Bands_Fitness_Planners.pdf_split_https://drive.google.com/file/d/18Jeie1pff2MC3l-e0FM3PCUn_bHVsDhn/view?usp=sharing_name_Loop_Bands_Quick_Start_Guide.pdf",
+      "faq" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B0136PR5TO?ref_=ast_sto_dp#Ask",
+      "id" : 21,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/817v45mSb4L._SL1500_.jpg",
+      "manual" : "https://drive.google.com/file/d/1ejStSLXduopv-fD-pn7KeGmoH5J3WN5L/view?usp=sharing_name_4 Easy Steps Guide.pdf_split_https://drive.google.com/file/d/1VgsHt_r8IrHDZhJlFg_FEkn-VIUhQPrI/view?usp=sharing_name_10 Tips of Storage and Care of Bands.pdf_split_https://drive.google.com/file/d/1ldscPhTBN2cnROxtagmBafOfchcBEFBD/view?usp=sharing_name_How to use the Progressive Colored System.pdf_split_https://drive.google.com/file/d/1AR91ITM1P2Q1tz3QjDGvg3XDr1LLXbQU/view?usp=sharing_name_Workout Safety Instructions.pdf",
+      "name" : "Limm Resistance Bands Exercise Loops - 12-inch Premium Workout Bands for Physical Therapy, Rehab, Stretching, Home Fitness, Yoga and More - Bonus EBooks, Instruction Manual, Online Videos & Carry Bag",
+      "originalprice" : 0,
+      "parentproduct" : "B0136PR5TO",
+      "price" : 10.38,
+      "rating" : 4.4,
+      "reviews" : 5370,
+      "reviewurl" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B0136PR5TO?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Resistance Bands",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41oTaIBUF6L._SS36_.jpg",
+      "video" : "yes"
+    },
+    "product22" : {
+      "amazon" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B07QKYC3TZ",
+      "answers" : 123,
+      "asin" : "B07QKYC3TZ",
+      "description" : "【Your Very Own Personal Home Gym】 Bring new life, fun and excitement to your workouts with the \"All-in-one, Ready-to-go, Take-them-anywhere, Gym-in-your-pocket\" Limm Resistance Bands! \n 【Effective & Portable】 Get fit and sculpt a better body anywhere, without the need for expensive gym memberships, exercise equipment or even having to leave your home. The included carry bag makes it easy to take them with you wherever life takes you. \n 【Fun & Easy To Use】 Add fun to your workouts and use them, for example, while watching your favorite TV series. As each band has a different resistance, you can increase the intensity of your workout gradually, which makes them perfect for anyone. \n 【Outperform】 Each resistance band is made of professional grade 100% natural latex (TPE free), is odor free, elastic, durable and will stay flat even after excessive use. No more issues like pinching your skin, snapping, or leaving marks on your clothes. \n 【All You Need】 The included BONUS eBooks, instructions manual, online workout portal and growing online community (IG: BetterWorkouts), provide you with everything you need to succeed. Buy with confidence with our 100% Satisfaction & Lifetime guarantee.",
+      "ebook" : "https://drive.google.com/file/d/1qPVNj8370mP7hv_h32VaMC8HYhGTk4q_/view?usp=sharing_name_How to Perform the Exercises.pdf_split_https://drive.google.com/file/d/12S2JAwBw6464gxI3XGic0FpXiRQUVvvL/view?usp=sharing_name_LimmResistance_Bands_Fitness_Planners.pdf_split_https://drive.google.com/file/d/18Jeie1pff2MC3l-e0FM3PCUn_bHVsDhn/view?usp=sharing_name_Loop_Bands_Quick_Start_Guide.pdf",
+      "faq" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B0136PR5TO?ref_=ast_sto_dp#Ask",
+      "id" : 22,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/71xO6saGa1L._SL1500_.jpg",
+      "manual" : "https://drive.google.com/file/d/1ejStSLXduopv-fD-pn7KeGmoH5J3WN5L/view?usp=sharing_name_4 Easy Steps Guide.pdf_split_https://drive.google.com/file/d/1VgsHt_r8IrHDZhJlFg_FEkn-VIUhQPrI/view?usp=sharing_name_10 Tips of Storage and Care of Bands.pdf_split_https://drive.google.com/file/d/1ldscPhTBN2cnROxtagmBafOfchcBEFBD/view?usp=sharing_name_How to use the Progressive Colored System.pdf_split_https://drive.google.com/file/d/1AR91ITM1P2Q1tz3QjDGvg3XDr1LLXbQU/view?usp=sharing_name_Workout Safety Instructions.pdf",
+      "name" : "Limm Resistance Bands Exercise Loops - 12-inch Premium Workout Bands for Physical Therapy, Rehab, Stretching, Home Fitness, Yoga and More - Bonus EBooks, Instruction Manual, Online Videos & Carry Bag",
+      "originalprice" : 0,
+      "parentproduct" : "B0136PR5TO",
+      "price" : 8.98,
+      "rating" : 4.4,
+      "reviews" : 5370,
+      "reviewurl" : "https://www.amazon.com/Limm-Resistance-Bands-Exercise-Loops/dp/B0136PR5TO?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Resistance Bands",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41SdHfHIg8L._SS36_.jpg",
+      "video" : "yes"
+    },
+    "product23" : {
+      "amazon" : "https://www.amazon.com/Limm-Dual-Sided-Core-Exercise-Sliders/dp/B078FQ5R52",
+      "answers" : 8,
+      "asin" : "B078FQ5R52",
+      "description" : "- Set of 2 discs comes with complimentary ‘Core Sliders Workout’ eBook, printed manual, handy travel bag, access to online tutorial videos, printable workout guide sheets & 100% SATISFACTION MONEY-BACK GUARANTEE. \n- Each gliding disc is dual-sided: made with fabric on one side for use on ceramic, hardwood, laminate, tile, marble, and other hard floors, and feature smooth plastic on the other side for extra-smooth gliding on carpets, rugs, and grass. \n- Each of the light exercising sliders is 7” (17.8cm) in diameter, and the set of 2 comes with a drawstring carry bag for hassle-free portability to the gym, park, business trip or vacation. \n- Great for toning your shoulders and arms, strengthening the core, sculpting your abs, or giving your legs a rewarding burn. \n- Want to get the most out of these core gliding discs? Combine them with our best-selling resistance bands. This combo gives you a more complete full body strength training and can be integrated into pilates, yoga, the 80-day obsession program, and others. Buy Limm core sliders together with Limm loop bands and get a discount during checkout.",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-Dual-Sided-Core-Exercise-Sliders/dp/B078FQ5R52?ref_=ast_sto_dp&th=1#Ask",
+      "id" : 23,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/91KV0waKJlL._SL1500_.jpg",
+      "manual" : "no",
+      "name" : "Limm Dual-Sided Core Exercise Sliders - Gym Gliding Discs for Ab Training, Stability, Legs, Full Body (Set of 2) | with Free Carry Bag and Workout Ebook | Sliding Pads for Hardwood, Carpet & More",
+      "originalprice" : 24.39,
+      "parentproduct" : "B078FQ8LKH",
+      "price" : 8.9,
+      "rating" : 4.5,
+      "reviews" : 42,
+      "reviewurl" : "https://www.amazon.com/Limm-Dual-Sided-Core-Exercise-Sliders/dp/B078FQ8LKH?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Core Sliders",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41Oe1cGUipL._SS36_.jpg",
+      "video" : "yes"
+    },
+    "product24" : {
+      "amazon" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B07G4F4635",
+      "answers" : 54,
+      "asin" : "B07G4F4635",
+      "description" : "- FULLY ADJUSTABLE - Quickly and easily adjustable from 9.8ft down to your desired length within minutes! Appropriate for all ages (Adults, Men, Women, Children, Kids, Boys, and Girls) and all experience levels. \n- NO MORE TANGLING! - Featuring a high quality premium ball bearing, it ensures a smooth and effortless spin making it the perfect addition to any calorie burning workout program. \n- ENJOY TOTAL COMFORT - The ergonomically designed handles offer extra comfort not found in other jump ropes while also preventing palm sweat and providing the firm grip you need to get the most out of your workout! \n- LIGHTWEIGHT & PORTABLE - Being feather-light makes it easily and conveniently portable so that you can achieve maximum fat burn, tone your muscles and reach peak fitness anywhere. With your purchase you will also receive easy to follow sizing instructions and tips on how to get the most out of your rope. \n- ABSOLUTELY NO RISK INVOLVED - At Limm, we fully stand behind our product and offer you a no-questions-asked, 100% SATISFACTION MONEY-BACK GUARANTEE. If you don't love your Limm Jump Rope or if you don't feel 100% satisfied for any reason, we will fully refund your money. Customer satisfaction is our number one priority. So try it now! TOTALLY RISK FREE!",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B00VOCG44O?ref_=ast_sto_dp#Ask",
+      "id" : 24,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/81s5v3iAkmL._SL1500_.jpg",
+      "manual" : "https://drive.google.com/file/d/1VZncD57tzQaUlcLgmTmM_ZmHzDe67qh-/view?usp=sharing_name_10 Tips to Better Use of Your Jump Rope.pdf_split_https://drive.google.com/file/d/1qe-oXUB8NKx-5n7UqTE_pyDRLNpCp454/view?usp=sharing_name_Limm_Jump_Rope Instruction Sheet.pdf",
+      "name" : "Limm All Purpose Jump Rope - Ideal for All Ages & Skill Levels, Indoor/Outdoor, Easily Adjustable, Comfortable Handles, 5mm Thick Plastic/PVC Rope - Get and Stay Fit, Lose Weight, Best Cardio Workout",
+      "originalprice" : 0,
+      "parentproduct" : "B00VOCG44O",
+      "price" : 8.79,
+      "rating" : 4.3,
+      "reviews" : 706,
+      "reviewurl" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B00VOCG44O?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Plastic Jump Rope",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41KYVJIw3mL._SS36_.jpg",
+      "video" : "no"
+    },
+    "product25" : {
+      "amazon" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B07JYS6HW4",
+      "answers" : 54,
+      "asin" : "B07JYS6HW4",
+      "description" : "- FULLY ADJUSTABLE - Quickly and easily adjustable from 9.8ft down to your desired length within minutes! Appropriate for all ages (Adults, Men, Women, Children, Kids, Boys, and Girls) and all experience levels. \n- NO MORE TANGLING! - Featuring a high quality premium ball bearing, it ensures a smooth and effortless spin making it the perfect addition to any calorie burning workout program. \n- ENJOY TOTAL COMFORT - The ergonomically designed handles offer extra comfort not found in other jump ropes while also preventing palm sweat and providing the firm grip you need to get the most out of your workout! \n- LIGHTWEIGHT & PORTABLE - Being feather-light makes it easily and conveniently portable so that you can achieve maximum fat burn, tone your muscles and reach peak fitness anywhere. With your purchase you will also receive easy to follow sizing instructions and tips on how to get the most out of your rope. \n- ABSOLUTELY NO RISK INVOLVED - At Limm, we fully stand behind our product and offer you a no-questions-asked, 100% SATISFACTION MONEY-BACK GUARANTEE. If you don't love your Limm Jump Rope or if you don't feel 100% satisfied for any reason, we will fully refund your money. Customer satisfaction is our number one priority. So try it now! TOTALLY RISK FREE!",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B00VOCG44O?ref_=ast_sto_dp#Ask",
+      "id" : 25,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/81lEutPnOAL._SL1500_.jpg",
+      "manual" : "https://drive.google.com/file/d/1VZncD57tzQaUlcLgmTmM_ZmHzDe67qh-/view?usp=sharing_name_10 Tips to Better Use of Your Jump Rope.pdf_split_https://drive.google.com/file/d/1qe-oXUB8NKx-5n7UqTE_pyDRLNpCp454/view?usp=sharing_name_Limm_Jump_Rope Instruction Sheet.pdf",
+      "name" : "Limm All Purpose Jump Rope - Ideal for All Ages & Skill Levels, Indoor/Outdoor, Easily Adjustable, Comfortable Handles, 5mm Thick Plastic/PVC Rope - Get and Stay Fit, Lose Weight, Best Cardio Workout",
+      "originalprice" : 39.99,
+      "parentproduct" : "B00VOCG44O",
+      "price" : 9.98,
+      "rating" : 4.3,
+      "reviews" : 706,
+      "reviewurl" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B00VOCG44O?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Plastic Jump Rope",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41sgwXZsNML._SS36_.jpg",
+      "video" : "no"
+    },
+    "product26" : {
+      "amazon" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B07L7X1PFQ",
+      "answers" : 54,
+      "asin" : "B07L7X1PFQ",
+      "description" : "- FULLY ADJUSTABLE - Quickly and easily adjustable from 9.8ft down to your desired length within minutes! Appropriate for all ages (Adults, Men, Women, Children, Kids, Boys, and Girls) and all experience levels. \n- NO MORE TANGLING! - Featuring a high quality premium ball bearing, it ensures a smooth and effortless spin making it the perfect addition to any calorie burning workout program. \n- ENJOY TOTAL COMFORT - The ergonomically designed handles offer extra comfort not found in other jump ropes while also preventing palm sweat and providing the firm grip you need to get the most out of your workout! \n- LIGHTWEIGHT & PORTABLE - Being feather-light makes it easily and conveniently portable so that you can achieve maximum fat burn, tone your muscles and reach peak fitness anywhere. With your purchase you will also receive easy to follow sizing instructions and tips on how to get the most out of your rope. \n- ABSOLUTELY NO RISK INVOLVED - At Limm, we fully stand behind our product and offer you a no-questions-asked, 100% SATISFACTION MONEY-BACK GUARANTEE. If you don't love your Limm Jump Rope or if you don't feel 100% satisfied for any reason, we will fully refund your money. Customer satisfaction is our number one priority. So try it now! TOTALLY RISK FREE!",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B00VOCG44O?ref_=ast_sto_dp#Ask",
+      "id" : 26,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/81yhpt4wJTL._SL1500_.jpg",
+      "manual" : "https://drive.google.com/file/d/1VZncD57tzQaUlcLgmTmM_ZmHzDe67qh-/view?usp=sharing_name_10 Tips to Better Use of Your Jump Rope.pdf_split_https://drive.google.com/file/d/1qe-oXUB8NKx-5n7UqTE_pyDRLNpCp454/view?usp=sharing_name_Limm_Jump_Rope Instruction Sheet.pdf",
+      "name" : "Limm All Purpose Jump Rope - Ideal for All Ages & Skill Levels, Indoor/Outdoor, Easily Adjustable, Comfortable Handles, 5mm Thick Plastic/PVC Rope - Get and Stay Fit, Lose Weight, Best Cardio Workout",
+      "originalprice" : 0,
+      "parentproduct" : "B00VOCG44O",
+      "price" : 9.98,
+      "rating" : 4.3,
+      "reviews" : 706,
+      "reviewurl" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B00VOCG44O?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Plastic Jump Rope",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41Z-2FSpUeL._SS36_.jpg",
+      "video" : "no"
+    },
+    "product27" : {
+      "amazon" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B07SR8HHXC",
+      "answers" : 54,
+      "asin" : "B07SR8HHXC",
+      "description" : "- FULLY ADJUSTABLE - Quickly and easily adjustable from 9.8ft down to your desired length within minutes! Appropriate for all ages (Adults, Men, Women, Children, Kids, Boys, and Girls) and all experience levels. \n- NO MORE TANGLING! - Featuring a high quality premium ball bearing, it ensures a smooth and effortless spin making it the perfect addition to any calorie burning workout program. \n- ENJOY TOTAL COMFORT - The ergonomically designed handles offer extra comfort not found in other jump ropes while also preventing palm sweat and providing the firm grip you need to get the most out of your workout! \n- LIGHTWEIGHT & PORTABLE - Being feather-light makes it easily and conveniently portable so that you can achieve maximum fat burn, tone your muscles and reach peak fitness anywhere. With your purchase you will also receive easy to follow sizing instructions and tips on how to get the most out of your rope. \n- ABSOLUTELY NO RISK INVOLVED - At Limm, we fully stand behind our product and offer you a no-questions-asked, 100% SATISFACTION MONEY-BACK GUARANTEE. If you don't love your Limm Jump Rope or if you don't feel 100% satisfied for any reason, we will fully refund your money. Customer satisfaction is our number one priority. So try it now! TOTALLY RISK FREE!",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B00VOCG44O?ref_=ast_sto_dp#Ask",
+      "id" : 27,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/81AGGuYDqfL._SL1500_.jpg",
+      "manual" : "https://drive.google.com/file/d/1VZncD57tzQaUlcLgmTmM_ZmHzDe67qh-/view?usp=sharing_name_10 Tips to Better Use of Your Jump Rope.pdf_split_https://drive.google.com/file/d/1qe-oXUB8NKx-5n7UqTE_pyDRLNpCp454/view?usp=sharing_name_Limm_Jump_Rope Instruction Sheet.pdf",
+      "name" : "Limm All Purpose Jump Rope - Ideal for All Ages & Skill Levels, Indoor/Outdoor, Easily Adjustable, Comfortable Handles, 5mm Thick Plastic/PVC Rope - Get and Stay Fit, Lose Weight, Best Cardio Workout",
+      "originalprice" : 0,
+      "parentproduct" : "B00VOCG44O",
+      "price" : 9.98,
+      "rating" : 4.3,
+      "reviews" : 706,
+      "reviewurl" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B00VOCG44O?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Plastic Jump Rope",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41Z4xwy1dEL._SS36_.jpg",
+      "video" : "no"
+    },
+    "product28" : {
+      "amazon" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B07SR86CWQ",
+      "answers" : 54,
+      "asin" : "B07SR86CWQ",
+      "description" : "- FULLY ADJUSTABLE - Quickly and easily adjustable from 9.8ft down to your desired length within minutes! Appropriate for all ages (Adults, Men, Women, Children, Kids, Boys, and Girls) and all experience levels. \n- NO MORE TANGLING! - Featuring a high quality premium ball bearing, it ensures a smooth and effortless spin making it the perfect addition to any calorie burning workout program. \n- ENJOY TOTAL COMFORT - The ergonomically designed handles offer extra comfort not found in other jump ropes while also preventing palm sweat and providing the firm grip you need to get the most out of your workout! \n- LIGHTWEIGHT & PORTABLE - Being feather-light makes it easily and conveniently portable so that you can achieve maximum fat burn, tone your muscles and reach peak fitness anywhere. With your purchase you will also receive easy to follow sizing instructions and tips on how to get the most out of your rope. \n- ABSOLUTELY NO RISK INVOLVED - At Limm, we fully stand behind our product and offer you a no-questions-asked, 100% SATISFACTION MONEY-BACK GUARANTEE. If you don't love your Limm Jump Rope or if you don't feel 100% satisfied for any reason, we will fully refund your money. Customer satisfaction is our number one priority. So try it now! TOTALLY RISK FREE!",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B00VOCG44O?ref_=ast_sto_dp#Ask",
+      "id" : 28,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/81XAhi1OPcL._SL1500_.jpg",
+      "manual" : "https://drive.google.com/file/d/1VZncD57tzQaUlcLgmTmM_ZmHzDe67qh-/view?usp=sharing_name_10 Tips to Better Use of Your Jump Rope.pdf_split_https://drive.google.com/file/d/1qe-oXUB8NKx-5n7UqTE_pyDRLNpCp454/view?usp=sharing_name_Limm_Jump_Rope Instruction Sheet.pdf",
+      "name" : "Limm All Purpose Jump Rope - Ideal for All Ages & Skill Levels, Indoor/Outdoor, Easily Adjustable, Comfortable Handles, 5mm Thick Plastic/PVC Rope - Get and Stay Fit, Lose Weight, Best Cardio Workout",
+      "originalprice" : 0,
+      "parentproduct" : "B00VOCG44O",
+      "price" : 9.98,
+      "rating" : 4.3,
+      "reviews" : 706,
+      "reviewurl" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B00VOCG44O?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Plastic Jump Rope",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41qlNy2ZcTL._SS36_.jpg",
+      "video" : "no"
+    },
+    "product29" : {
+      "amazon" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B07L7X2XK3",
+      "answers" : 54,
+      "asin" : "B07L7X2XK3",
+      "description" : "- FULLY ADJUSTABLE - Quickly and easily adjustable from 9.8ft down to your desired length within minutes! Appropriate for all ages (Adults, Men, Women, Children, Kids, Boys, and Girls) and all experience levels. \n- NO MORE TANGLING! - Featuring a high quality premium ball bearing, it ensures a smooth and effortless spin making it the perfect addition to any calorie burning workout program. \n- ENJOY TOTAL COMFORT - The ergonomically designed handles offer extra comfort not found in other jump ropes while also preventing palm sweat and providing the firm grip you need to get the most out of your workout! \n- LIGHTWEIGHT & PORTABLE - Being feather-light makes it easily and conveniently portable so that you can achieve maximum fat burn, tone your muscles and reach peak fitness anywhere. With your purchase you will also receive easy to follow sizing instructions and tips on how to get the most out of your rope. \n- ABSOLUTELY NO RISK INVOLVED - At Limm, we fully stand behind our product and offer you a no-questions-asked, 100% SATISFACTION MONEY-BACK GUARANTEE. If you don't love your Limm Jump Rope or if you don't feel 100% satisfied for any reason, we will fully refund your money. Customer satisfaction is our number one priority. So try it now! TOTALLY RISK FREE!",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B00VOCG44O?ref_=ast_sto_dp#Ask",
+      "id" : 29,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/81FUijyalaL._SL1500_.jpg",
+      "manual" : "https://drive.google.com/file/d/1VZncD57tzQaUlcLgmTmM_ZmHzDe67qh-/view?usp=sharing_name_10 Tips to Better Use of Your Jump Rope.pdf_split_https://drive.google.com/file/d/1qe-oXUB8NKx-5n7UqTE_pyDRLNpCp454/view?usp=sharing_name_Limm_Jump_Rope Instruction Sheet.pdf",
+      "name" : "Limm All Purpose Jump Rope - Ideal for All Ages & Skill Levels, Indoor/Outdoor, Easily Adjustable, Comfortable Handles, 5mm Thick Plastic/PVC Rope - Get and Stay Fit, Lose Weight, Best Cardio Workout",
+      "originalprice" : 39.99,
+      "parentproduct" : "B00VOCG44O",
+      "price" : 9.98,
+      "rating" : 4.3,
+      "reviews" : 706,
+      "reviewurl" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B00VOCG44O?ref_=ast_sto_dp#customerReviews",
+      "shortname" : "Plastic Jump Rope",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41VnVBjzPmL._SS36_.jpg",
+      "video" : "no"
+    },
+    "product30" : {
+      "amazon" : "https://www.amazon.com/Limm-Armband-iPhone-Samsung-Galaxy/dp/B07GDL2V6Q",
+      "answers" : 5,
+      "asin" : "B07GDL2V6Q",
+      "description" : "   Designed For Results - While our best selling resistance bands are great for general home workouts, we have designed these hip bands to have a high resistance to specifically target booty and thighs for maximum results.\n    High Quality Bands That Don't Roll - Strong and durable so you will never have to replace them! Made to be soft, comfortable and anti-slip on the inside, so that you can focus and enjoy your workouts without worrying about the bands.\n    Workout Anywhere - Bands come with a sporty carrying case, making it easy to take them with you wherever you go. Allow your creative side to show through and try them anywhere!\n    Enhance Your Workouts - Use them to enhance your regular exercises or assist in P90x, CrossFit, Yoga, Insanity, Pilates, Hot Yoga, and Beach Body workouts.\n    Satisfaction Guaranteed - Try them risk free and see the results for yourself! If you don't absolutely love them, return them with no-questions-asked.",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-Armband-iPhone-Samsung-Galaxy/dp/B07GDL2V6Q#Ask",
+      "id" : 30,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/711oNW95tkL._SL1200_.jpg",
+      "manual" : "https://drive.google.com/file/d/1ZoRZoMnC6QwDo627F8TQieskfQ7DSTY5/view?usp=sharing",
+      "name" : "Limm Booty Resistance Hip Bands - Fitness Loop Circle for Women to Specifically Activate Legs, Thighs, Bootie, Glutes and Core - Premium Elastic Non-Slip Cotton Fabric with Workout Book & Carry Bag ",
+      "originalprice" : 25.0,
+      "parentproduct" : "no",
+      "price" : 18.29,
+      "rating" : 4.7,
+      "reviews" : 33,
+      "reviewurl" : "https://www.amazon.com/Limm-Armband-iPhone-Samsung-Galaxy/dp/B07GDL2V6Q#customerReviews",
+      "shortname" : "Hip Bands",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/51rlosy4wRL._SS36_.jpg",
+      "video" : "yes"
+    },
+    "product31" : {
+      "amazon" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B07GDPF8V3",
+      "answers" : 5,
+      "asin" : "B07GDPF8V3",
+      "description" : "   Designed For Results - While our best selling resistance bands are great for general home workouts, we have designed these hip bands to have a high resistance to specifically target booty and thighs for maximum results.\n    High Quality Bands That Don't Roll - Strong and durable so you will never have to replace them! Made to be soft, comfortable and anti-slip on the inside, so that you can focus and enjoy your workouts without worrying about the bands.\n    Workout Anywhere - Bands come with a sporty carrying case, making it easy to take them with you wherever you go. Allow your creative side to show through and try them anywhere!\n    Enhance Your Workouts - Use them to enhance your regular exercises or assist in P90x, CrossFit, Yoga, Insanity, Pilates, Hot Yoga, and Beach Body workouts.\n    Satisfaction Guaranteed - Try them risk free and see the results for yourself! If you don't absolutely love them, return them with no-questions-asked.",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-Armband-iPhone-Samsung-Galaxy/dp/B07GDL2V6Q#Ask",
+      "id" : 31,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/71pLAfbP7NL._SL1200_.jpg",
+      "manual" : "https://drive.google.com/file/d/1ZoRZoMnC6QwDo627F8TQieskfQ7DSTY5/view?usp=sharing",
+      "name" : "Limm Booty Resistance Hip Bands - Fitness Loop Circle for Women to Specifically Activate Legs, Thighs, Bootie, Glutes and Core - Premium Elastic Non-Slip Cotton Fabric with Workout Book & Carry Bag ",
+      "originalprice" : 25.0,
+      "parentproduct" : "B07GDL2V6Q",
+      "price" : 9.95,
+      "rating" : 4.7,
+      "reviews" : 33,
+      "reviewurl" : "https://www.amazon.com/Limm-Armband-iPhone-Samsung-Galaxy/dp/B07GDL2V6Q#customerReviews",
+      "shortname" : "Hip Bands",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41VcrNPzbuL._SS36_.jpg",
+      "video" : "yes"
+    },
+    "product32" : {
+      "amazon" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B07GDPLKW6",
+      "answers" : 5,
+      "asin" : "B07GDPLKW6",
+      "description" : "   Designed For Results - While our best selling resistance bands are great for general home workouts, we have designed these hip bands to have a high resistance to specifically target booty and thighs for maximum results.\n    High Quality Bands That Don't Roll - Strong and durable so you will never have to replace them! Made to be soft, comfortable and anti-slip on the inside, so that you can focus and enjoy your workouts without worrying about the bands.\n    Workout Anywhere - Bands come with a sporty carrying case, making it easy to take them with you wherever you go. Allow your creative side to show through and try them anywhere!\n    Enhance Your Workouts - Use them to enhance your regular exercises or assist in P90x, CrossFit, Yoga, Insanity, Pilates, Hot Yoga, and Beach Body workouts.\n    Satisfaction Guaranteed - Try them risk free and see the results for yourself! If you don't absolutely love them, return them with no-questions-asked.",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-Armband-iPhone-Samsung-Galaxy/dp/B07GDL2V6Q#Ask",
+      "id" : 32,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/71AkYP8-CmL._SL1200_.jpg",
+      "manual" : "https://drive.google.com/file/d/1ZoRZoMnC6QwDo627F8TQieskfQ7DSTY5/view?usp=sharing",
+      "name" : "Limm Booty Resistance Hip Bands - Fitness Loop Circle for Women to Specifically Activate Legs, Thighs, Bootie, Glutes and Core - Premium Elastic Non-Slip Cotton Fabric with Workout Book & Carry Bag ",
+      "originalprice" : 25.0,
+      "parentproduct" : "B07GDL2V6Q",
+      "price" : 9.95,
+      "rating" : 4.7,
+      "reviews" : 33,
+      "reviewurl" : "https://www.amazon.com/Limm-Armband-iPhone-Samsung-Galaxy/dp/B07GDL2V6Q#customerReviews",
+      "shortname" : "Hip Bands",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/417Tf-0cC9L._SS36_.jpg",
+      "video" : "yes"
+    },
+    "product33" : {
+      "amazon" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B07GDNCF7D",
+      "answers" : 5,
+      "asin" : "B07GDNCF7D",
+      "description" : "   Designed For Results - While our best selling resistance bands are great for general home workouts, we have designed these hip bands to have a high resistance to specifically target booty and thighs for maximum results.\n    High Quality Bands That Don't Roll - Strong and durable so you will never have to replace them! Made to be soft, comfortable and anti-slip on the inside, so that you can focus and enjoy your workouts without worrying about the bands.\n    Workout Anywhere - Bands come with a sporty carrying case, making it easy to take them with you wherever you go. Allow your creative side to show through and try them anywhere!\n    Enhance Your Workouts - Use them to enhance your regular exercises or assist in P90x, CrossFit, Yoga, Insanity, Pilates, Hot Yoga, and Beach Body workouts.\n    Satisfaction Guaranteed - Try them risk free and see the results for yourself! If you don't absolutely love them, return them with no-questions-asked.",
+      "ebook" : "no",
+      "faq" : "https://www.amazon.com/Limm-All-Purpose-Jump-Rope/dp/B07GDNCF7D#Ask",
+      "id" : 33,
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/71ZzMFN13ZL._SL1200_.jpg",
+      "manual" : "https://drive.google.com/file/d/1ZoRZoMnC6QwDo627F8TQieskfQ7DSTY5/view?usp=sharing",
+      "name" : "Limm Booty Resistance Hip Bands - Fitness Loop Circle for Women to Specifically Activate Legs, Thighs, Bootie, Glutes and Core - Premium Elastic Non-Slip Cotton Fabric with Workout Book & Carry Bag ",
+      "originalprice" : 25.0,
+      "parentproduct" : "B07GDL2V6Q",
+      "price" : 9.95,
+      "rating" : 4.7,
+      "reviews" : 33,
+      "reviewurl" : "https://www.amazon.com/Limm-Armband-iPhone-Samsung-Galaxy/dp/B07GDL2V6Q#customerReviews",
+      "shortname" : "Hip Bands",
+      "thumnail" : "https://images-na.ssl-images-amazon.com/images/I/41jTvxHBa4L._SS36_.jpg",
+      "video" : "yes"
+    }
+  },
+  "video" : {
+    "01" : {
+      "asin" : "B0136PR5TO",
+      "name" : "Standing Hip Abduction",
+      "url" : "https://www.youtube.com/embed/Z0Is-PkH8yY?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "02" : {
+      "asin" : "B0136PR5TO",
+      "name" : "Standing Hip Extension",
+      "url" : "https://www.youtube.com/embed/xEJXojI86wU?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "03" : {
+      "asin" : "B0136PR5TO",
+      "name" : "Lying Leg Raise",
+      "url" : "https://www.youtube.com/embed/jChjGndGQZg?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "04" : {
+      "asin" : "B0136PR5TO",
+      "name" : "Standing Hip Abduction",
+      "url" : "https://www.youtube.com/embed/vrQ1Zlu8458?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "05" : {
+      "asin" : "B0136PR5TO",
+      "name" : "Lying Hip Abduction",
+      "url" : "https://www.youtube.com/embed/RUIDj9nMXmQ?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "06" : {
+      "asin" : "B0136PR5TO",
+      "name" : "Underarm Row",
+      "url" : "https://www.youtube.com/embed/qy4JS3aJ8eY?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "07" : {
+      "asin" : "B0136PR5TO",
+      "name" : "Tricep Extensions – Behind the Back",
+      "url" : "https://www.youtube.com/embed/2AYqfadh2jA?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "08" : {
+      "asin" : "B0136PR5TO",
+      "name" : "Bicep Curls – Forward Kneeling Lunge",
+      "url" : "https://www.youtube.com/embed/8Dn-5iYfYxE?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "09" : {
+      "asin" : "B0136PR5TO",
+      "name" : "Behind the Back Extensions",
+      "url" : "https://www.youtube.com/embed/9J5sdaMUpXc?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "10" : {
+      "asin" : "B0136PR5TO",
+      "name" : "Overarm Row",
+      "url" : "https://www.youtube.com/embed/xHS9Z3XrEFo?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "11" : {
+      "asin" : "B0136PR5TO",
+      "name" : "Seated Oblique Twists",
+      "url" : "https://www.youtube.com/embed/97R1OmKM7o0?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "12" : {
+      "asin" : "B0136PR5TO",
+      "name" : "Hip Extension in Quadruped",
+      "url" : "https://www.youtube.com/embed/tl5miAGYXsk?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "13" : {
+      "asin" : "B0136PR5TO",
+      "name" : "FlutterKicks",
+      "url" : "https://www.youtube.com/embed/OoStMFotpSk?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "14" : {
+      "asin" : "B079DFYC5D",
+      "name" : "Side Hops",
+      "url" : "https://www.youtube.com/embed/X3957iOxbT8?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "15" : {
+      "asin" : "B079DFYC5D",
+      "name" : "Five Hops & Run",
+      "url" : "https://www.youtube.com/embed/xEJXojI86wU?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "16" : {
+      "asin" : "B079DFYC5D",
+      "name" : "Crossover",
+      "url" : "https://www.youtube.com/embed/jChjGndGQZg?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "17" : {
+      "asin" : "B079DFYC5D",
+      "name" : "Side Straddle Hop",
+      "url" : "https://www.youtube.com/embed/vrQ1Zlu8458?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "18" : {
+      "asin" : "B079DFYC5D",
+      "name" : "Carioca",
+      "url" : "https://www.youtube.com/embed/RUIDj9nMXmQ?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "19" : {
+      "asin" : "B079DFYC5D",
+      "name" : "Two In & Two Out",
+      "url" : "https://www.youtube.com/embed/qy4JS3aJ8eY?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "20" : {
+      "asin" : "B079DFYC5D",
+      "name" : "Ickey Shuffle",
+      "url" : "https://www.youtube.com/embed/2AYqfadh2jA?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "21" : {
+      "asin" : "B079DFYC5D",
+      "name" : "Back and Forth",
+      "url" : "https://www.youtube.com/embed/8Dn-5iYfYxE?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "22" : {
+      "asin" : "B079DFYC5D",
+      "name" : "Quarter Turns",
+      "url" : "https://www.youtube.com/embed/JrR1Uwvb0A4?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "23" : {
+      "asin" : "B079DFYC5D",
+      "name" : "Scissors Jumps",
+      "url" : "https://www.youtube.com/embed/D-n7jDdk-aw?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "24" : {
+      "asin" : "B071RNFL6V",
+      "name" : "Fitness Ball Pass",
+      "url" : "https://www.youtube.com/embed/NrOkklmg1yA?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "25" : {
+      "asin" : "B071RNFL6V",
+      "name" : "Low to High Woodchop",
+      "url" : "https://www.youtube.com/embed/HDafxfKAyg0?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "26" : {
+      "asin" : "B071RNFL6V",
+      "name" : "Hamstring Curl",
+      "url" : "https://www.youtube.com/embed/cr3L5fg4VWE?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "27" : {
+      "asin" : "B071RNFL6V",
+      "name" : "Squat thrust on ball into overhead reach",
+      "url" : "https://www.youtube.com/embed/nBwBWvxk8-0?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "28" : {
+      "asin" : "B071RNFL6V",
+      "name" : "Supine on ball and pelvic thrusts",
+      "url" : "https://www.youtube.com/embed/ERtXkbOuLp8?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "29" : {
+      "asin" : "B071RNFL6V",
+      "name" : "Knee Tuck",
+      "url" : "https://www.youtube.com/embed/kcOzVEJVV04?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "30" : {
+      "asin" : "B071RNFL6V",
+      "name" : "Squat",
+      "url" : "https://www.youtube.com/embed/KpcwLmsaWuA?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "31" : {
+      "asin" : "B071RNFL6V",
+      "name" : "Hamstring Bridge",
+      "url" : "https://www.youtube.com/embed/VSe54haAtM0?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "32" : {
+      "asin" : "B071RNFL6V",
+      "name" : "Reverse Crunch with Ball Lift",
+      "url" : "https://www.youtube.com/embed/yOsIoq1pjA8?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "33" : {
+      "asin" : "B071RNFL6V",
+      "name" : "Crunch",
+      "url" : "https://www.youtube.com/embed/shljZABKeNY?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "34" : {
+      "asin" : "B071RNFL6V",
+      "name" : "Back Extension",
+      "url" : "https://www.youtube.com/embed/Q-RWe5rbb3g?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "35" : {
+      "asin" : "B071RNFL6V",
+      "name" : "Oblique Crunch",
+      "url" : "https://www.youtube.com/embed/6LPn_Tzl4-Q?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "36" : {
+      "asin" : "B071RNFL6V",
+      "name" : "Diagonal Standing",
+      "url" : "https://www.youtube.com/embed/CZExItQvLR8?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "37" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Ab Roll Out",
+      "url" : "https://www.youtube.com/embed/9RM3glJnfNs?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "38" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Ankle Flicks",
+      "url" : "https://www.youtube.com/embed/Sfdsw0THSw0?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "39" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Side Lunge",
+      "url" : "https://www.youtube.com/embed/sML40uh_lmU?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "40" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Full Body Sit-up",
+      "url" : "https://www.youtube.com/embed/VyEYrqG9vWg?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "41" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Gliding Sit-up Curl",
+      "url" : "https://www.youtube.com/embed/jIs3yGrqajI?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "42" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Alternating Arm Extension",
+      "url" : "https://www.youtube.com/embed/hC0yuUMbKOM?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "43" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Swimming Extension",
+      "url" : "https://www.youtube.com/embed/Nbn9lMvJuAQ?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "44" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Plank Arm Circles",
+      "url" : "https://www.youtube.com/embed/t9Z6Lg8GE6U?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "45" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Army Crawl with Gliders",
+      "url" : "https://www.youtube.com/embed/5jFs1VYpKY4?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "46" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Butterfly Curl with Gliders",
+      "url" : "https://www.youtube.com/embed/DLAUKfPwEpY?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "47" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Curtsy Lunge with Gliders ",
+      "url" : "https://www.youtube.com/embed/qyKdKm8hR0I?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "48" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Alternating Forearm Plank with Gliders",
+      "url" : "https://www.youtube.com/embed/W28KqGK8l3Q?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "49" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Kneeling Hip Abductor with Gliders",
+      "url" : "https://www.youtube.com/embed/lkNQZTUEc7E?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "50" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Knee Tucks with Gliders",
+      "url" : "https://www.youtube.com/embed/jRL7nZmaxVs?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "51" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Hip Rotation with Gliders",
+      "url" : "https://www.youtube.com/embed/Lq3XK4EXesY?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "52" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Pike with Gliders",
+      "url" : "https://www.youtube.com/embed/0yDSHwlSDMg?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "53" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Plank Jacks with Gliders",
+      "url" : "https://www.youtube.com/embed/rONMk3WH91w?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "54" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Reverse Lunge with Gliders",
+      "url" : "https://www.youtube.com/embed/frNvZkt5D5w?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "55" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Mountain Climbers",
+      "url" : "https://www.youtube.com/embed/g21lHhDVbaM?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "56" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Push-up Reach",
+      "url" : "https://www.youtube.com/embed/N17Rq5gOTWs?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "57" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Alligator Walk",
+      "url" : "https://www.youtube.com/embed/58umCJAluaA?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "58" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Push-up Fly",
+      "url" : "https://www.youtube.com/embed/KQrTOItMxJI?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "59" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Bridge Slide",
+      "url" : "https://www.youtube.com/embed/cgkT2dqxKXU?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "60" : {
+      "asin" : "B078FQ8LKH",
+      "name" : "Twist and Slide",
+      "url" : "https://www.youtube.com/embed/c8QavV0Fk4Y?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    },
+    "62" : {
+      "asin" : "B07GDL2V6Q",
+      "name" : "Fire Hydrant",
+      "url" : "https://www.youtube.com/embed/SKgUw8OCYvg?start=0&end=0&autoplay=0&loop=0&rel=0&showinfo=1"
+    },
+    "63" : {
+      "asin" : "B07GDL2V6Q",
+      "name" : "Hip Band Squats",
+      "url" : "https://www.youtube.com/embed/EEoQ9BgD5uk?start=0&end=0&autoplay=0&loop=0&rel=0&showinfo=1"
+    },
+    "64" : {
+      "asin" : "B07GDL2V6Q",
+      "name" : "Forward / Back Squats",
+      "url" : "https://www.youtube.com/embed/48cWBsbRrkw?start=0&end=0&autoplay=0&loop=0&rel=0&showinfo=1"
+    },
+    "65" : {
+      "asin" : "B07GDL2V6Q",
+      "name" : "Sitting Hip Abduction",
+      "url" : "https://www.youtube.com/embed/oYZYsxATvfY?start=0&end=0&autoplay=0&loop=0&rel=0&showinfo=1"
+    },
+    "66" : {
+      "asin" : "B07GDL2V6Q",
+      "name" : "Hip Bridge Pulses",
+      "url" : "https://www.youtube.com/embed/NZ1H3rAyl34?start=0&end=0&autoplay=0&loop=0&rel=0&showinfo=1"
+    },
+    "67" : {
+      "asin" : "B07GDL2V6Q",
+      "name" : "Band Glute Bridge with One Leg",
+      "url" : "https://www.youtube.com/embed/SSd8ENTC1GU?start=0&end=0&autoplay=0&loop=0&rel=0&showinfo=1"
+    },
+    "68" : {
+      "asin" : "B07GDL2V6Q",
+      "name" : "Clamshell",
+      "url" : "https://www.youtube.com/embed/UCxvNyLqmbI?start=0&end=0&autoplay=0&loop=0&rel=0&showinfo=1"
+    },
+    "69" : {
+      "asin" : "B07GDL2V6Q",
+      "name" : "Side Steps",
+      "url" : "https://www.youtube.com/embed/WptrV832tjU?start=0&end=0&autoplay=0&loop=0&rel=0&showinfo=1"
+    },
+    "70" : {
+      "asin" : "B07GDL2V6Q",
+      "name" : "Lateral Leg Lifts",
+      "url" : "https://www.youtube.com/embed/Ae5Vbo-cpc8?start=0&end=0&autoplay=0&loop=0&rel=0&showinfo=1"
+    },
+    "71" : {
+      "asin" : "B07GDL2V6Q",
+      "name" : "Squat and Lateral Leg Lifts",
+      "url" : "https://www.youtube.com/embed/TExBhsLPfFk?start=0&end=0&autoplay=0&loop=0&rel=0&showinfo=1"
+    },
+    "72" : {
+      "asin" : "B07GDL2V6Q",
+      "name" : "Hip Bridge Sit-Up",
+      "url" : "https://www.youtube.com/embed/G2uJdEOXNgg?start=0&end=0&autoplay=0&loop=0&rel=0&showinfo=1"
+    },
+    "73" : {
+      "asin" : "B07GDL2V6Q",
+      "name" : "Duck Walk",
+      "url" : "https://www.youtube.com/embed/HZVdtH2Z3hU?start=0&end=0&autoplay=0&loop=0&rel=0&showinfo=1"
+    },
+    "74" : {
+      "asin" : "B07GDL2V6Q",
+      "name" : "Leg Raise with Hip Abduction",
+      "url" : "https://www.youtube.com/embed/jRL7nZmaxVs?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1?start=0&end=0&autoplay=0&loop=0&rel=1&showinfo=1"
+    }
+  }
+}

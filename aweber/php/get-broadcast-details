@@ -1,0 +1,97 @@
+#!/usr/bin/env php
+<?php
+require 'vendor/autoload.php';
+use GuzzleHttp\Client;
+
+const BASE_URL = 'https://api.aweber.com/1.0/';
+
+// Create a Guzzle client
+$client = new GuzzleHttp\Client();
+
+// Load credentials
+$credentials = parse_ini_file('credentials.ini');
+$accessToken = $credentials['accessToken'];
+
+/**
+ * Get all of the entries for a collection
+ *
+ * @param Client $client HTTP Client used to make a GET request
+ * @param string $accessToken Access token to pass in as an authorization header
+ * @param string $url Full url to make the request
+ * @return array Every entry in the collection
+ */
+function getCollection($client, $accessToken, $url) {
+    $collection = array();
+    while (isset($url)) {
+        $request = $client->get($url,
+            ['headers' => ['Authorization' => 'Bearer ' . $accessToken]]
+        );
+        $body = $request->getBody();
+        $page = json_decode($body, true);
+        $collection = array_merge($page['entries'], $collection);
+        $url = isset($page['next_collection_link']) ? $page['next_collection_link'] : null;
+    }
+    return $collection;
+}
+
+/**
+ * Get a URL, retrying on rate limit errors
+ *
+ * @param Client $client guzzle client instance
+ * @param string $url URL to get
+ * @return \Psr\Http\Message\ResponseInterface
+ */
+function getWithRetry($client, $accessToken, $url) {
+    foreach (range(1, MAX_RETRIES) as $i) {
+        try {
+            $response = $client->get($url,
+                ['headers' => ['Authorization' => 'Bearer ' . $accessToken]]
+            );
+        } catch(GuzzleHttp\Exception\RequestException $e) {
+            // Only retry on a 403 (forbidden) status code with a rate limit error
+            if (!$e->hasResponse() || $e->getResponse()->getStatusCode() != 403) {
+                throw $e;
+            }
+            $body = json_decode($e->getResponse()->getBody(), true);
+            if (!preg_match('/rate limit/i', $body['error']['message'])) {
+                throw $e;
+            }
+            echo "Request was rate limited\n";
+            if ($i < MAX_RETRIES) {
+                // Wait longer between every attempt
+                sleep(2 ** $i);
+                echo "Retry #{$i}...\n";
+            }
+            continue;
+        }
+        return $response;
+    }
+
+    echo "Giving up after " . MAX_RETRIES . " tries\n";
+    throw $e;
+}
+
+// Get an account to search on
+$accounts = getCollection($client, $accessToken, BASE_URL . 'accounts');
+$account = $accounts[0];  // choose the first account
+
+// Get a list to find broadcasts on
+$lists = getCollection($client, $accessToken, $account['lists_collection_link']);
+$listUrl = $lists[0]['self_link'];  // choose the first list
+
+// Get broadcast totals
+foreach (['draft', 'scheduled', 'sent'] as $status) {
+    $totalUrl = "{$listUrl}/broadcasts/total?status={$status}";
+    $totalResponse = getWithRetry($client, $accessToken, $totalUrl);
+    $totalBody = json_decode($totalResponse->getBody(), true);
+    $total = $totalBody['total_size'];
+    echo "Total {$status} broadcasts: {$total}\n";
+}
+
+// Get the first broadcast in each category
+foreach (['draft', 'scheduled', 'sent'] as $status) {
+    $linkKey = "{$status}_broadcasts_link";
+    $broadcasts = getCollection($client, $accessToken, $lists[0][$linkKey]);
+    $subject = $broadcasts ? $broadcasts[0]['subject'] : 'N/A';
+    echo "First {$status} broadcast subject: ${subject}\n";
+}

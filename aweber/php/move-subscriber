@@ -1,0 +1,83 @@
+#!/usr/bin/env php
+<?php
+require 'vendor/autoload.php';
+use GuzzleHttp\Client;
+
+const BASE_URL = 'https://api.aweber.com/1.0/';
+
+// Create a Guzzle client
+$client = new GuzzleHttp\Client();
+
+// Load credentials
+$credentials = parse_ini_file('credentials.ini');
+$accessToken = $credentials['accessToken'];
+
+
+/**
+ * Get all of the entries for a collection
+ *
+ * @param Client $client HTTP Client used to make a GET request
+ * @param string $accessToken Access token to pass in as an authorization header
+ * @param string $url Full url to make the request
+ * @return array Every entry in the collection
+ */
+function getCollection($client, $accessToken, $url) {
+    $collection = array();
+    while (isset($url)) {
+        $request = $client->get($url,
+            ['headers' => ['Authorization' => 'Bearer ' . $accessToken]]
+        );
+        $body = $request->getBody();
+        $page = json_decode($body, true);
+        $collection = array_merge($page['entries'], $collection);
+        $url = isset($page['next_collection_link']) ? $page['next_collection_link'] : null;
+    }
+    return $collection;
+}
+
+// get all the accounts entries
+$accounts = getCollection($client, $accessToken, BASE_URL . 'accounts');
+
+// get all the list entries for the first account
+$lists = getCollection($client, $accessToken, $accounts[0]['lists_collection_link']);
+
+// pick the list to move the subscriber from and to
+$originList = $lists[0];
+$destinationList = $lists[1];
+
+if (!isset($originList) || !isset($destinationList)) {
+    echo "You must have 2 lists to move a subscriber!\n";
+    exit();
+}
+
+// get all subscribers from the first list
+$subscribers = getCollection($client, $accessToken, $originList['subscribers_collection_link']);
+
+// pick the subscriber we want to move
+$subscriber = $subscribers[0];
+
+if (!isset($subscriber)) {
+    echo "You must have a subscriber on list: {$originList['name']}!\n";
+    exit();
+}
+
+$data = array(
+    'ws.op' => 'move',
+    'list_link' => $destinationList['self_link']
+);
+try {
+    // attempt to move the subscriber to the second list
+    // $moveResponse = $client->post($subscriber['self_link'], ['json' => $data]);
+    $moveResponse = $client->post($subscriber['self_link'], [
+            'json' => $data, 
+            'headers' => ['Authorization' => 'Bearer ' . $accessToken]
+        ]);
+    echo "Moved subscriber {$subscriber['email']} from list: {$originList['name']} to list: {$destinationList['name']}";
+} catch (\GuzzleHttp\Exception\RequestException $e) {
+    $errorResponse = $e->getResponse();
+    $errorContents = json_decode($errorResponse->getBody()->getContents(), true);
+    $error = $errorContents['error'];
+
+    // For more info see: https://api.aweber.com/#tag/Troubleshooting
+    echo "Could not move subscriber!\n{$e->getMessage()}";
+}
